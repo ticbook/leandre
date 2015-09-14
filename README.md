@@ -1,0 +1,4 @@
+# leandre
+
+
+Ticbook ::.. est un réseau social en ligne qui permet à ses utilisateurs d'être interconnecté les uns aux autres dans le domaine de l'informatique et de tout ce qu'il touche la technologie, puis permette ainsi par l'entremise des coachs passionner par l'informatique d'échanger des informations au niveau de la « technologie des informations et de communication (TIC) .» Tout de même étant un site informatique et social, il permet la recherche d'emploi et de stage via les sociétés et entreprises partenaire. « Notre principal objectif est de réduire le taux de chômage chez les jeunes de 18 à 25 ans, en leur permettant d’acquérir de l’expérience durant leurs études, au travers des stages, des jobs d’étudiants afin de les mener à une indépendance financière ainsi à booster les échanges entre étudiants et entreprises et de faire de leur réseau social la plate-forme incontournable . 
